@@ -17,7 +17,7 @@ export default function Search() {
         <button type="submit">Search</button>
       </form>
       
-      <div className="search-output results-v2" dangerouslySetInnerHTML={{ __html: searchResult }} />
+      <div className="search-output" dangerouslySetInnerHTML={{ __html: searchResult }} />
     </div>
   );
 }

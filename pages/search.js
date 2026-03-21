@@ -16,6 +16,7 @@ export default function Search() {
         <input type="text" name="query" />
         <button type="submit">Search</button>
       </form>
+      {/* render search results */}
       <div dangerouslySetInnerHTML={{ __html: searchResult }} />
     </div>
   );

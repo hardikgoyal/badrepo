@@ -67,3 +67,4 @@ This project serves as a "what-not-to-do" guide:
 ## License
 
 This project is licensed under the ISC License.
+<!-- sentinel test Sat Mar 21 15:16:19 PDT 2026 -->

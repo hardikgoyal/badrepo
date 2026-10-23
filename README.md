@@ -23,7 +23,7 @@ This is an intentionally vulnerable Next.js application designed for educational
 1. Clone the repository.
 2. Navigate to the project directory:
    ```bash
-   cd badrepo/badrepo
+   cd badrepo
    ```
 3. Install dependencies:
    ```bash
